@@ -13,6 +13,7 @@ const ProjectCard = ({
   const [firstWord, ...restOfTitle] = project.title.split(" ");
   return (
     <Link
+      target="_blank"
       href={`https://github.com/SouravgithubBhattacharyya`}
       className="bg-accent-color-light/50 dark:bg-accent-color-dark/50 dark:hover:bg-accent-color-dark hover:bg-accent-color-light hover:translate-y-[-8px] rounded-2xl p-4 flex flex-col justify-start items-start gap-y-5  duration-300"
     >

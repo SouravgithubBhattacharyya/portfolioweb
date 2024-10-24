@@ -9,7 +9,7 @@ export const generalInfo: TGeneralInfo = {
     name: "Sourav Bhattcharyya",
     role: "Full Stack Developer Cloud And Mobile",
     intro:
-      "Passionate in building highly interactive, beautiful web application that bring your idea to life and push your current  business to the next level.",
+      "Passionate in building highly interactive, beautiful Web and Mobile application that bring your idea to life and push your current  business to the next level.",
     stats: {
       projects: 6,
       frameworks: 10,

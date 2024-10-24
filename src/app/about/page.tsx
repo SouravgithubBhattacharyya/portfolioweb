@@ -9,7 +9,7 @@ import FieldCard from "@/components/field-card";
 
 import { fieldsInfo, generalInfo } from "@/data";
 
-import me from "@/assets/images/me.png";
+import me from "@/assets/images/me-removebg-preview.png";
 
 import MotionSection from "@/components/shared/motion-section";
 
@@ -25,10 +25,10 @@ const About = () => {
         <PageTitle title="About me & my Skills" />
         <article className="w-full px-4 lg:px-8 py-8 rounded-t-2xl mt-8 bg-secondary-color-light dark:bg-secondary-color-dark flex flex-col justify-start items-start gap-y-8">
           <article className="flex flex-col justify-start items-start gap-4 lg:flex-row lg:justify-between lg:items-stretch">
-            <div className="flex justify-center items-center ml-9 sm:ml-20 ">
+            <div className="flex justify-center items-center ml-3 sm:ml-20 ">
               <Image
                 placeholder="blur"
-                className="h-72 w-72 rounded-full"
+                className="border-8 rounded-full shadow-lg bg-gradient-to-r from-purple-700 via-orange-500 to-black h-72 w-72 object-cover"
                 src={me}
                 alt="My Image Picture"
               />

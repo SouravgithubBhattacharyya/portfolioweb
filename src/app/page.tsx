@@ -37,12 +37,18 @@ const Home = () => {
         </p>
         {/* CTA Buttons  */}
         <div className="flex justify-center items-center gap-x-4 mt-8 lg:mt-12">
-          <Link href="https://github.com/SouravgithubBhattacharyya">
+          <Link
+            target="_blank"
+            href="https://github.com/SouravgithubBhattacharyya"
+          >
             <Button size="lg">
               <p className="font-semibold text-base lg:text-lg">My Github</p>
             </Button>
           </Link>
-          <Link href="https://github.com/SouravgithubBhattacharyya">
+          <Link
+            target="_blank"
+            href="https://github.com/SouravgithubBhattacharyya"
+          >
             <Button variant="secondary" size="lg">
               <p className="font-semibold text-base lg:text-lg">My resume</p>
             </Button>
