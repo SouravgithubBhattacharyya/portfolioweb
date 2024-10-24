@@ -7,7 +7,7 @@ export const generalInfo: TGeneralInfo = {
   hero_info: {
     greeting: "Hi there, my name is",
     name: "Sourav Bhattcharyya",
-    role: "Full Stack Developer Cloud And Mobile",
+    role: "Full Stack Developer Web, Cloud And Mobile",
     intro:
       "Passionate in building highly interactive, beautiful Web and Mobile application that bring your idea to life and push your current  business to the next level.",
     stats: {
@@ -17,7 +17,7 @@ export const generalInfo: TGeneralInfo = {
   },
   about_info: {
     bio: {
-      intro: `Full-stack web developer skilled in HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, MongoDB, MySQL,Postgreql, Python, Fastify, Nest, Remix, Docker, Git, and GitHub.`,
+      intro: `Full-stack web developer skilled in HTML, CSS, JavaScript, React, Reactnative, Expo, Tailwind CSS, Node.js, Express, MongoDB, MySQL,Postgreql, Python, Fastify, Nest, Remix, Docker, Git, and GitHub.`,
       main: `I excel in frontend and backend development(Web , Mobile) Cloud(Devops), specializing in creating responsive web applications and Mobile Apps. My work spans across various technologies, enabling me to deliver comprehensive solutions that meet client needs.`,
       outro: `I hold certifications in CIT(Central Institute Of Technology) Front-End and Back-End Development and Cloud(Devops) and continually stay updated with the latest industry trends to keep my skills sharp and relevant.`,
     },
